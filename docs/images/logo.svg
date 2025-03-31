@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆 -->
+  <circle cx="100" cy="100" r="90" fill="#2E75B7" />
+  <circle cx="100" cy="100" r="85" fill="#3A89D9" />
+  
+  <!-- Notion 风格图标 -->
+  <rect x="60" y="50" width="80" height="100" rx="4" fill="white" />
+  
+  <!-- 文档线条 -->
+  <rect x="75" y="70" width="50" height="4" rx="2" fill="#3A89D9" />
+  <rect x="75" y="85" width="50" height="4" rx="2" fill="#3A89D9" />
+  <rect x="75" y="100" width="40" height="4" rx="2" fill="#3A89D9" />
+  <rect x="75" y="115" width="50" height="4" rx="2" fill="#3A89D9" />
+  <rect x="75" y="130" width="30" height="4" rx="2" fill="#3A89D9" />
+  
+  <!-- 连接线 -->
+  <path d="M140 100 L160 100 L160 140 L120 140" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="120" cy="140" r="5" fill="white" />
+  
+  <!-- 扫描图标 -->
+  <rect x="45" y="155" width="110" height="6" rx="3" fill="white" />
+  <path d="M60 148 L60 162 M80 148 L80 162 M100 148 L100 162 M120 148 L120 162 M140 148 L140 162" stroke="white" stroke-width="3" stroke-linecap="round" />
+</svg>
