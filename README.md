@@ -1,7 +1,7 @@
 # Notion 项目更新器 (Notion Project Updater)
 
 <p align="center">
-  <img src="https://github.com/sgInnora/notion-project-updater/raw/main/docs/images/logo.png" alt="Notion 项目更新器" width="180"/>
+  <img src="https://github.com/sgInnora/notion-project-updater/raw/main/docs/images/logo.svg" alt="Notion 项目更新器" width="180"/>
 </p>
 
 <p align="center">
