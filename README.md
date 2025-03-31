@@ -1,12 +1,18 @@
 # Notion 项目更新器 (Notion Project Updater)
 
 <p align="center">
-  <img src="https://github.com/innoraorg/notion-project-updater/raw/main/docs/images/logo.png" alt="Notion 项目更新器" width="180"/>
+  <img src="https://github.com/sgInnora/notion-project-updater/raw/main/docs/images/logo.png" alt="Notion 项目更新器" width="180"/>
 </p>
 
 <p align="center">
   <b>自动扫描代码项目并同步到 Notion 数据库的 Python 工具</b><br/>
   <i>由 <a href="https://innora.ai">Innora</a> 开发</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sgInnora/notion-project-updater/releases/tag/v1.0.0"><img src="https://img.shields.io/github/v/release/sgInnora/notion-project-updater" alt="版本"></a>
+  <a href="https://github.com/sgInnora/notion-project-updater/blob/main/LICENSE"><img src="https://img.shields.io/github/license/sgInnora/notion-project-updater" alt="许可证"></a>
+  <a href="https://github.com/sgInnora/notion-project-updater"><img src="https://img.shields.io/github/stars/sgInnora/notion-project-updater?style=social" alt="GitHub星标"></a>
 </p>
 
 <p align="center">
@@ -45,7 +51,7 @@ Notion 项目更新器是一个强大的自动化工具，能够：
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/innoraorg/notion-project-updater.git
+   git clone https://github.com/sgInnora/notion-project-updater.git
    cd notion-project-updater
    ```
 
@@ -184,6 +190,10 @@ Innora 提供：
 - **定制化开发服务** - 满足特定业务需求
 
 通过 Notion 项目更新器，我们希望帮助开发者和团队更有效地管理和跟踪他们的代码项目。
+
+## 贡献
+
+欢迎贡献！请查看[贡献指南](CONTRIBUTING.md)了解如何参与。
 
 ## 许可证
 
